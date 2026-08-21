@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm Kasen, a MIS student at Oklahoma state university!
+I like to create games and other programs
+When a idea gets into my head, chances are I'll create it.
+
+My main tech: Unity, C#, Python
+
+## 🌱 I’m currently learning
+- SQL
+- Database design
+- Tableau
+- Power BI
+- Microsoft SQL Server
+
+I have some projects built which will be populated below as I finish them!
 
 <!--
 **Kasen-M-B/Kasen-M-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
