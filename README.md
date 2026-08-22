@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Kasen, a MIS student at Oklahoma state university!
-I like to create games and other programs
+I like to create games and other programs.
 When a idea gets into my head, chances are I'll create it.
 
 My main tech: Unity, C#, Python
