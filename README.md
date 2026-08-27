@@ -2,7 +2,7 @@
 
 I'm Kasen, a MIS student at Oklahoma State University. I like to create games and other programs. When an idea gets into my head, chances are I'll create it. I have close to half a decade of experience making independent 3D video games in Unity, and I'm interested in databases and information systems. I learn fast, work hard, and finish projects.
 
-My main tech: Unity, C#, Python
+My main tech: Unity, C#, basic python
 
 ## 🌱 I’m currently learning
 - SQL
@@ -10,6 +10,7 @@ My main tech: Unity, C#, Python
 - Tableau
 - Power BI
 - Microsoft SQL Server
+- Advanced python
 
 I have some projects built which will be populated below as I finish them!
 
