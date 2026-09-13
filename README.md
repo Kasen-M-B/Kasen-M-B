@@ -5,12 +5,17 @@ I'm Kasen, a MIS student at Oklahoma State University. I like to create games an
 My main tech: Unity, C#, basic python
 
 ## 🌱 I’m currently learning
-- SQL
 - Database design
+- Data cleaning in python
+- SQL
 - Tableau
 - Power BI
 - Microsoft SQL Server
-- Advanced python
+- Business analytics
+- Git
+- CSS
+- HTML
+- Java Script
 
 I have some projects built which will be populated below as I finish them!
 
